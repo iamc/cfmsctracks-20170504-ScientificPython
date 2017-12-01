@@ -2,7 +2,7 @@
 CFM Software Carpentry Tracks - 2017-05-04  - Introduction to Scientific Python
 *******************************************************************************
 
-:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 4th May, 9:30-13:30 2016
+:Date & place: Materials Physics Center (CFM) Computer Room - San Sebastian, 4th May, 9:30-13:30 2017
 :Track: Introduction to Scientific Python
 :Autor: Iñigo Aldazabal Mensa <inigo_aldazabal@ehu.eus>
 
